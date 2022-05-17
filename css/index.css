@@ -7,8 +7,8 @@ div{
 }
 
 .SI_logo{
-    width: 500px;
-	height: 281px;
+    width: 50%;
+	height: 50%;
 	transform: rotateY(45deg);
 	animation: rotateAnimation 5s linear infinite;
     display:block;
