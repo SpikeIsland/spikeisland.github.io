@@ -6,7 +6,7 @@ img{
 	height: 100vh;
 }
 
-#SI_logo{
+.SI_logo{
     width: 200px;
 	height: 200px;
 	transform: rotateY(45deg);
