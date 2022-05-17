@@ -14,7 +14,6 @@ div{
     display:block;
     margin-left: auto;
     margin-right: auto;
-    background-size: 100%;
 }
 
 @keyframes rotateAnimation {
@@ -24,5 +23,5 @@ div{
 
 body{
     background-color: black;
-    overflow-y: hiden;
+    background-size: 100%;
 }
