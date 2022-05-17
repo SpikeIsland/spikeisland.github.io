@@ -11,6 +11,9 @@ div{
 	height: 200px;
 	transform: rotateY(45deg);
 	animation: rotateAnimation 1s linear infinite;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @keyframes rotateAnimation {
