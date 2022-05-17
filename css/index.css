@@ -10,11 +10,10 @@ div{
     width: 200px;
 	height: 200px;
 	transform: rotateY(45deg);
-	animation: rotateAnimation 3s linear infinite;
+	animation: rotateAnimation 5s linear infinite;
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 
 @keyframes rotateAnimation {
