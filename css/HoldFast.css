@@ -1,3 +1,56 @@
 body{
     background-image: url("../img/harbourSky.jpg");
 }
+
+
+  .card {
+    width: 350px;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #d2d2dc;
+    border-radius: 6px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgb(249, 249, 250);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(212, 182, 212, 1);
+    box-shadow: 0px 0px 5px 0px rgb(161, 163, 164);
+  }
+  
+  .cookies a {
+    text-decoration: none;
+    color: #000;
+    margin-top: 8px;
+  }
+  
+  .cookies a:hover {
+    text-decoration: none;
+    color: blue;
+    margin-top: 8px;
+  }
+  
+  .black_overlay {
+    display: none;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: 1001;
+    -moz-opacity: 0.8;
+    opacity: .80;
+    filter: alpha(opacity=80);
+  }
+
+  .white_content {
+    display: none;
+    position: fixed;
+    top: 20%;
+    left: 25%;
+    width: 100%;
+    height: 50%;
+    padding: 16px;
+    z-index: 1002;
+    overflow: auto;
+  }
