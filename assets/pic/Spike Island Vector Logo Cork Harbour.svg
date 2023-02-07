@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1250 845" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g transform="matrix(1,0,0,1,-28.558,-39.2968)">
+<svg width="100%" height="100%" viewBox="0 0 1250 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-28.558,-33.9681)">
         <g transform="matrix(8.72031,0,0,8.72031,-2722.97,-2727.58)">
             <g transform="matrix(50,0,0,50,424.876,385.432)">
             </g>
@@ -20,6 +20,11 @@
             <g transform="matrix(50,0,0,50,649.392,852.951)">
             </g>
             <text x="330.042px" y="852.951px" style="font-family:'CochinLTStd', 'Cochin LT Std', serif;font-size:50px;">I<tspan x="373.542px 427.242px 483.692px 542.942px 607.742px " y="852.951px 852.951px 852.951px 852.951px 852.951px ">SLAND</tspan></text>
+        </g>
+        <g transform="matrix(2.49403,0,0,2.49403,-767.858,-1106.43)">
+            <g transform="matrix(50,0,0,50,812.292,852.951)">
+            </g>
+            <text x="330.042px" y="852.951px" style="font-family:'CochinLTStd', 'Cochin LT Std', serif;font-size:50px;">C<tspan x="370.242px 416.892px 457.992px 500.042px 517.542px 564.192px 604.392px 645.492px 684.742px 731.392px 776.192px " y="852.951px 852.951px 852.951px 852.951px 852.951px 852.951px 852.951px 852.951px 852.951px 852.951px 852.951px ">ORK HARBOUR</tspan></text>
         </g>
         <g transform="matrix(0.996572,-8.81515e-06,-8.81515e-06,1,-295.128,3.01614)">
             <path d="M370.295,873L1537.04,876" style="fill:none;stroke:black;stroke-width:8.35px;"/>
